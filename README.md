@@ -1,4 +1,4 @@
-## What this is all about.  
+## What this is all about  
 > This is a simple TPS game project. We focus primarily on the server-side programming for we both are interested in network programming.
 We are going to use C# for the client programming with Unity and C++ for the socket programming with VS.
 
